@@ -1,0 +1,51 @@
+html,
+body {
+  background-color: #e5e7eb;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+main {
+  width: 70%;
+}
+
+.mod {
+  padding-top: 15%;
+}
+
+
+.carousel {
+  border-radius: 45px;
+  padding-top: 3%;
+  width: 100%;
+  height: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.card-out {
+  margin-top: 5%;
+  background-color: #e5e7eb;
+}
+
+.accordion {
+  margin-top: 5%;
+}
+
+.button-out {
+  padding-top: 5%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.button-out button {
+  width: 180px;
+  height: 70px;
+  border-radius: 45px;
+  
+}
+ footer {
+    padding-top: 10%;
+    
+ }
